@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 600" role="img" aria-label="Portrait placeholder">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#6FA8C9" stroke-opacity="0.12" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="480" height="600" fill="#0F2438"/>
+  <rect width="480" height="600" fill="url(#grid)"/>
+  <circle cx="240" cy="220" r="72" fill="none" stroke="#6FA8C9" stroke-width="1.5" stroke-opacity="0.55"/>
+  <path d="M140 420c20-70 60-110 100-110s80 40 100 110" fill="none" stroke="#6FA8C9" stroke-width="1.5" stroke-opacity="0.55"/>
+  <text x="240" y="545" text-anchor="middle" fill="#E8601C" font-family="IBM Plex Mono, monospace" font-size="14" letter-spacing="0.18em">REPLACE WITH PHOTO</text>
+</svg>
